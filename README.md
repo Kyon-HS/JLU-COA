@@ -2,7 +2,7 @@
 
 This repository hosts the static site for **JLU · Computer Organization and Architecture**.
 
-- Structure mirrors the navigation of `cqf.io/EESM5900V` (home, personnel, syllabus, lectures, assignments, project).
+- Pages: home, personnel, and lecture notes.
 - All textual content here is original placeholders—**no third-party copyrighted text copied**. Replace with your materials.
 
 ## Local preview
